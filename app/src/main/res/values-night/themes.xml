@@ -26,4 +26,8 @@
         <item name="android:background">@drawable/bg_button24_2</item>
         <item name="android:textColor">#000</item>
     </style>
+    <style name="BUTTONframe2">
+        <item name="android:background">@drawable/bg_button_wt</item>
+        <item name="android:textColor">#000</item>
+    </style>
 </resources>
